@@ -1,0 +1,13 @@
+﻿kalapács
+csavarhúzó
+kés
+olló
+hangszóró
+monitor
+laptop
+tablet
+telefon
+asztal
+szék
+ablak
+ajtó
